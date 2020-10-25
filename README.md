@@ -1,4 +1,4 @@
-# Devops Demo Project
+# Devops Basic Demo Project
 
 This Repository is a collection of Implementation documents. 
 
